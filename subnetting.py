@@ -1,5 +1,4 @@
 from sys import exit
-import time
 import ipaddress
 import random
 
